@@ -7,7 +7,7 @@
 
 2. Lalu buka Latihan.py dan masukan coding sebagai berikut lalu run dengan mengetikan perintah berikut diterminal `python Latihan.py`:
 
-      ![latihan1](img/latihan.png)
+      ![latihan1](https://user-images.githubusercontent.com/115475098/205451331-6277d1c9-cc58-43c3-b5a8-d37cbc46f9d8.png)
 
       dan berikut hasilnya :
 
@@ -19,7 +19,7 @@
 
 4. Lalu buka file `Praktikum6.py` dan masukan codingan sebagai berikut lalu run dengan mengetikan perintah berikut diterminal `python Praktikum6.py`:
 
-      ![Praktikum](img/praktikum.png)
+      ![praktikum](https://user-images.githubusercontent.com/115475098/205451342-1d866e41-1f66-4b9c-bc72-d8a882ab8d73.png)
 
       dan Berikut hasilnya :
 
